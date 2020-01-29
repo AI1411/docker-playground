@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af1cda8c-f8ae-4d82-95d4-8f787099385e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580269930729</updated>
       <workItem from="1580269932407" duration="4928000" />
-      <workItem from="1580306570537" duration="1692000" />
+      <workItem from="1580306570537" duration="3099000" />
     </task>
     <servers />
   </component>
@@ -72,10 +69,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2118" y="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580306651393">
+    <state x="2118" y="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580308986782">
       <screen x="1440" y="72" width="1920" height="1080" />
     </state>
-    <state x="2118" y="413" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.72.1920.1080@1440.72.1920.1080" timestamp="1580306651393" />
+    <state x="2118" y="413" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.72.1920.1080@1440.72.1920.1080" timestamp="1580308986782" />
     <state x="158" y="376" key="NewPhpFileDialog" timestamp="1580274820542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
